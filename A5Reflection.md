@@ -22,3 +22,17 @@ The tutorial feedback given focused on the simplicity and clarity of the end-use
 
 ### Addressing the Use Case
 Yes, the tools and methods employed during the tutorial successfully demonstrated the application of OpenBIM concepts in solving the use case.
+
+## Individual Reflection on Future Use of OpenBIM: Frederik Højsager: s195392
+
+### Future Use in Thesis
+OpenBIM tools have a clearly stated relevance in architecture and structural analysis. If a future thesis consists of a case where OpenBIM can be applied, it would be of much interest.  
+**As an example:** The structural analysis of a multi-story building in the context of a sudden collapse of a seemingly non-critical beam. This scenario could examine how the failure of one beam might propagate and affect the overall stability of the structure. The IFC model serves as a central tool for the investigation, providing a detailed digital representation of the structural system. OpenBIM tools can also be used to visualize critical beams or isolate key structural components.
+
+This thesis would focus on the technical applications of OpenBIM and also demonstrate its role in fostering collaboration and ensuring accurate analysis in structural scenarios.
+
+### Professional Applications
+From the lectures by external professionals, it is clear how OpenBIM tools are growing both in demand and relevance. It is therefore highly likely that they will feature prominently in the next decades.
+
+## Individual Reflection on Future Use of OpenBIM: Oliver Friis: s203614
+
