@@ -11,3 +11,14 @@ In the world of OpenBIM, we recognize that we still have much to learn, as this 
 To be honest, one member of our group has considered using OpenBIM for their thesis, which makes this question somewhat challenging to answer collectively. However, if we were to pursue OpenBIM in our thesis, this course would play a crucial role in that process. The freedom offered in this course, along with the opportunity to learn from the tools developed by other groups, makes it highly valuable. It allows for a flexible approach to OpenBIM, enabling us to adapt and tailor its use to fit our specific needs and objectives.
 
 The previous response has already touched on this aspect of the reflection regarding whether we would prefer having less freedom of choice. As mentioned earlier, we believe that the freedom provided in this course is one of its greatest strengths. It allows us to explore a wide range of tools and encourages creative problem-solving, making the course incredibly valuable. Additionally, it’s exciting to see how the development of these tools will continue to evolve with future classes. We feel fortunate to have benefited from the contributions of past students, whose ideas and tools have provided us with inspiration and guidance.
+
+## Group Feedback Summary
+
+### Tutorial Feedback
+The tutorial feedback given focused on the simplicity and clarity of the end-user experience. The following points can be highlighted:
+1. **Clarity and Simplicity:** To make the end-user experience simpler, parts of the code, such as where the "file_destination" or the current repository is computed, were moved to the top and highlighted.
+2. **High Level of Coding and Relevance:** The tool was considered of high standard since it demonstrated extracting data, validating it, and then performing automated calculations and visualizations.
+3. **The Tutorial in Summary:** It provides the end-user with a clear indication of the purpose and format of the tool's functions.
+
+### Addressing the Use Case
+Yes, the tools and methods employed during the tutorial successfully demonstrated the application of OpenBIM concepts in solving the use case.
