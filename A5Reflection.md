@@ -23,7 +23,8 @@ The tutorial feedback given focused on the simplicity and clarity of the end-use
 ### Addressing the Use Case
 Yes, the tools and methods employed during the tutorial successfully demonstrated the application of OpenBIM concepts in solving the use case.
 
-## Individual Reflection on Future Use of OpenBIM: Frederik Højsager: s195392
+## Individual Reflection on Future Use of OpenBIM: 
+### Frederik Højsager: s195392
 
 ### Future Use in Thesis
 OpenBIM tools have a clearly stated relevance in architecture and structural analysis. If a future thesis consists of a case where OpenBIM can be applied, it would be of much interest.  
@@ -34,5 +35,5 @@ This thesis would focus on the technical applications of OpenBIM and also demons
 ### Professional Applications
 From the lectures by external professionals, it is clear how OpenBIM tools are growing both in demand and relevance. It is therefore highly likely that they will feature prominently in the next decades.
 
-## Individual Reflection on Future Use of OpenBIM: Oliver Friis: s203614
+### Oliver Friis: s203614
 
