@@ -42,7 +42,7 @@ In general, I’m very interested in BIM, especially on the modeling side. Howev
 
 As mentioned in previous sections, I have learned a lot about OpenBIM throughout this course, from A1 to A4. A1 was an excellent introduction to OpenBIM, allowing us to get familiar with it and create a small tool of our own to use. A2 through A4 focused on identifying a problem and using the tool we developed to solve it. In the end, I believe we successfully addressed the use case outlined in A2 by leveraging the tutorials and the tasks in A3 and A4. Overall, we were able to complete a functional tool that could potentially be useful for others. A least that's what im hoping.
 
-### Joachim Hermansen: 203604
+### Joachim Hermansen: s203604
 ### Your future for Advanced use of OpenBIM
 •	Are you likely to use OpenBIM tools in your thesis?
 Yes, I am likely to use OpenBIM tools in my thesis. The ability to extract and analyze data from IFC models aligns well with exploring new practical applications of BIM, particularly in cost estimation and design optimization.
