@@ -46,10 +46,10 @@ As mentioned in previous sections, I have learned a lot about OpenBIM throughout
 ### Your future for Advanced use of OpenBIM
 •	Are you likely to use OpenBIM tools in your thesis?
 Yes, I am likely to use OpenBIM tools in my thesis. The ability to extract and analyze data from IFC models aligns well with exploring new practical applications of BIM, particularly in cost estimation and design optimization.
+
 •	Are you likely to use OpenBIM tools in your professsional life in the next 10 years?
 Yes, the construction industry increasingly relies on open standards for interoperability and data management, and my experience in designing and optimizing tools makes me well-prepared to leverage these technologies in future projects.
+
 ### Wrap up
 •	Conclude the journey through A1-A5
 Through the journey of A1-A5, I’ve developed a solid foundation in advanced BIM workflows, particularly in extracting and analyzing data from IFC files. This practical application of OpenBIM principles, alongside lectures, has significantly enhanced my understanding of how these tools can improve efficiency and collaboration in the industry.
-
-Yes, I am likely to use OpenBIM tools in my thesis. The ability to extract and analyze data from IFC models aligns well with exploring new practical applications of BIM, particularly in cost estimation and design optimization.
