@@ -41,3 +41,15 @@ To be honest, I’m not entirely sure if I would use OpenBIM in my thesis, as I 
 In general, I’m very interested in BIM, especially on the modeling side. However, after learning how OpenBIM tools can be used to crosscheck the work of modelers, I’ve gained a new perspective on the field. This has broadened my view of how OpenBIM can complement the modeling process. Looking ahead, I hope to work more with BIM, potentially engaging with both sides of the BIM process in the future.
 
 As mentioned in previous sections, I have learned a lot about OpenBIM throughout this course, from A1 to A4. A1 was an excellent introduction to OpenBIM, allowing us to get familiar with it and create a small tool of our own to use. A2 through A4 focused on identifying a problem and using the tool we developed to solve it. In the end, I believe we successfully addressed the use case outlined in A2 by leveraging the tutorials and the tasks in A3 and A4. Overall, we were able to complete a functional tool that could potentially be useful for others. A least that's what im hoping.
+
+### Joachim Hermansen
+### Your future for Advanced use of OpenBIM
+•	Are you likely to use OpenBIM tools in your thesis?
+Yes, I am likely to use OpenBIM tools in my thesis. The ability to extract and analyze data from IFC models aligns well with exploring new practical applications of BIM, particularly in cost estimation and design optimization.
+•	Are you likely to use OpenBIM tools in your professsional life in the next 10 years?
+Yes, the construction industry increasingly relies on open standards for interoperability and data management, and my experience in designing and optimizing tools makes me well-prepared to leverage these technologies in future projects.
+### Wrap up
+•	Conclude the journey through A1-A5
+Through the journey of A1-A5, I’ve developed a solid foundation in advanced BIM workflows, particularly in extracting and analyzing data from IFC files. This practical application of OpenBIM principles, alongside lectures, has significantly enhanced my understanding of how these tools can improve efficiency and collaboration in the industry.
+
+Yes, I am likely to use OpenBIM tools in my thesis. The ability to extract and analyze data from IFC models aligns well with exploring new practical applications of BIM, particularly in cost estimation and design optimization.
